@@ -1,0 +1,23 @@
+{
+
+    "repository": {
+        "type" : "git",
+        "url" : "http://github.com/ndmanvar/CucumberJS-WebdriverIO"
+      },
+
+    "devDependencies" : {
+        "cucumber": "0.4.8",
+        "webdriverio": "<3.0.0",
+        "cucumber-junit": "latest",
+        "parallel-cucumber": "0.1.7",
+        "async": "~0.9.0",
+        "chai": "~1.10.0",
+        "chai-as-promised": "~4.1.1",
+        "saucelabs": "^1.0.1",
+        "selenium-launcher": "~1.1.11",
+        "grunt": "0.4.5",
+        "grunt-cli": "^1.2.0",
+        "grunt-parallel": "^0.4.1",
+        "grunt-shell": "^1.1.2"
+    }
+}
